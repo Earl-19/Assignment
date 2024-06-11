@@ -18,7 +18,7 @@ This is a dynamic and secure e-commerce web application designed to enhance the 
 - Database: MySQL
 - Version Control: Git and GitHub
 
-## Project Structure
+cl## Project Structure
 
 ```plaintext
 ecommerce-app/
